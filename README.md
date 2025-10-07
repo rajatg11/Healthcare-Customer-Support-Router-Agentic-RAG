@@ -1,7 +1,5 @@
 # Healthcare-Customer-Support-Router-Agentic-RAG
 
-# Build a Customer Support Router Agentic RAG System
-
 In this project, we will leverage the power of AI Agents and RAG Systems to build an intelligent Router Agentic RAG System to handle customer support queries using a custom knowledgebase for a healthcare provider company.
 
 ![](https://i.imgur.com/NMz7KjG.png)
